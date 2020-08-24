@@ -10,7 +10,19 @@ typora-root-url: assets\images
 
 ![](/03.png)
 
+
 ##### 2.contenthash、hash、chunkhash：[](https://juejin.im/post/6844903542893854734)
 
 - webpack中对输出文件名有三种hash值
 
+##### 3.webpack原理解析
+
+[https://imweb.io/topic/5a4cce35a192c3b460fce39b](https://imweb.io/topic/5a4cce35a192c3b460fce39b)
+
+[https://segmentfault.com/a/1190000019117897](https://segmentfault.com/a/1190000019117897)
+
+#### 4.babel详细解读
+
+[https://juejin.im/post/6844904199554072583](https://juejin.im/post/6844904199554072583)
+
+[https://juejin.im/post/6844904008679686152](https://juejin.im/post/6844904008679686152)
